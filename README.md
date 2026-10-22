@@ -1,2 +1,7 @@
-# A1---Modelos-M-todos-e-T-cnicas-de-engenharia-de-software
-Repositório público para a parte prática da avaliação da UC de engenharia de software.
+# Projeto Módulo de Pedidos e Entregas
+
+**Nome: Davi Jonas da Silva**
+**RA: 12523173651**
+
+##Objetivo
+Este repositório tem como objetivo documentar a Estrutura Analítica do projeto (EAP) do Módulo de Pedidos e Entregas de um aplicativo de delivery, organizando o escopo de entregas em 3 níveis hierárquicos.
